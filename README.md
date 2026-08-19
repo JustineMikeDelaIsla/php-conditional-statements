@@ -2,7 +2,7 @@
 
 #### Screenshot 1
 
-![Screenshot](images/SAMPLE1.png)
+![Screenshot](3f3c70d8-a53f-4e73-ba41-37d0cfb87b06.jpg)
 
 #### Screenshot 3
 
